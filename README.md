@@ -4,7 +4,7 @@ A complete, real-time 3D simulation of a local 2-player billiards game, featurin
 
 ---
 
-## 📸 Demo & Screenshots
+## Demo & Screenshots
 
 Here is a look at the final simulation:
 
@@ -26,7 +26,7 @@ Here is a look at the final simulation:
 
 ---
 
-## 🚀 Key Technical Features
+## Features
 
 * **Custom Physics Engine:** Developed a full-physics simulation from scratch, handling realistic ball-to-ball and ball-to-cushion collisions, frictionless rotation, and momentum conservation.
 * **Programmable GPU Pipeline:** Wrote custom **GLSL vertex and fragment shaders**. Implemented a lighting model to render realistic materials and shadows.
@@ -35,7 +35,7 @@ Here is a look at the final simulation:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Programming Languages:** C++, GLSL
 * **Graphics API:** OpenGL
@@ -44,15 +44,6 @@ Here is a look at the final simulation:
 
 ---
 
-## 🧑‍💻 Author
-
-* **Vasileios Andreikos**
-* Electrical & Computer Engineering Student | University of Patras
-* [GitHub Profile](https://github.com/vasilis-andreikos)
-* [LinkedIn Profile](https://www.linkedin.com/in/vasileios-andreikos-7953433b7/)
-
----
-
-## 📜 Report
+## Report
 
 A detailed analysis of the algorithms and implementation details is available in the [Project Report (in Greek)](Report_Greek.pdf).
