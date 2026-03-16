@@ -1,0 +1,47 @@
+# --- Compiled Binaries ---
+*.exe
+*.out
+*.app
+*.bin
+
+# --- Intermediate Object Files ---
+*.o
+*.obj
+*.so
+*.dylib
+*.dll
+*.lib
+
+# --- CMake Generated Files (The "Dirty" stuff) ---
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+install_manifest.txt
+CPackConfig.cmake
+CPackSourceConfig.cmake
+_CPack_Packages/
+
+# --- Build Directories ---
+# Ignore any folder named build, bin, or out
+build/
+Build/
+bin/
+out/
+[Debug]/
+[Release]/
+
+# --- IDE Specific (Visual Studio, VS Code, CLion) ---
+.vs/
+.vscode/
+.idea/
+*.sln
+*.vcxproj
+*.user
+*.suo
+
+# --- OS Generated Files ---
+.DS_Store
+Thumbs.db
+
+*.html
